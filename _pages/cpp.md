@@ -6,6 +6,6 @@ layout: tag
 author_profile: true
 
 taxonomy: C++
--------------
+---
 
 C++ language
