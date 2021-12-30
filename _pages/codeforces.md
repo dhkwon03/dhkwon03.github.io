@@ -1,6 +1,9 @@
 ---
 
-title: "Codeforces (acmicpc.net) problem" permalink: /categories/codeforces/ layout: category author_profile: true
+title: "Codeforces (acmicpc.net) problem"  
+permalink: /categories/codeforces/  
+layout: category  
+author_profile: true
 
 taxonomy: Codeforces
 --------------------

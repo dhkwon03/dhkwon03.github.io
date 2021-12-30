@@ -1,6 +1,9 @@
 ---
 
-title: "Baekjoon (acmicpc.net) problem" permalink: /categories/baekjoon/ layout: category author_profile: true
+title: "Baekjoon (acmicpc.net) problem"  
+permalink: /categories/baekjoon/  
+layout: category  
+author_profile: true
 
 taxonomy: Baekjoon
 ------------------
