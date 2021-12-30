@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Doheon Kwon"
   avatar           : "/assets/images/sea.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This page is for recording Doheon Kwon's activities related to EE and programming."
+  bio              : "Doheon Kwon's activities related to EE and programming."
   location         : "KAIST"
   email            : "dhkwon03@kaist.ac.kr"
   links:

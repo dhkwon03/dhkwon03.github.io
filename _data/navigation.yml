@@ -6,7 +6,5 @@ main:
     url: https://dhkwon03.github.io/aboutme/
   - title: "Categories"
     url: /categories/
-  - title: "Posts by Year"
-    url: /year-archive/
-  - title: "Posts by Tag"
+  - title: "Tags"
     url: /tags/
