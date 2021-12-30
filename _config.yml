@@ -20,7 +20,7 @@ title                    : "Dohoney"
 title_separator          : "-"
 subtitle                 : "Electrical Engineering & Programming" # site tagline that appears below site title in masthead
 name                     : "Doheon Kwon"
-description              : "This page is for recording Doheon Kwon's activities related to EE and programming. Do not copy or re-upload the contents of this page without permission. If you want, contact me via e-mail."
+description              : "A passionate engineer"
 url                      : "https://dhkwon03.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dhkwon03/dhkwon03.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Doheon Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A passionate engineer"
+  bio              : "This page is for recording Doheon Kwon's activities related to EE and programming. Do not copy or re-upload the contents of this page without permission. If you want, contact me via e-mail."
   location         : "KAIST"
   email            : "dhkwon03@kaist.ac.kr"
   links:
