@@ -5,6 +5,7 @@ toc_sticky: true
 comments: true
 ---
 
+first post!!  
 ## 이 github page의 목적
 이 github page에 올라오는 post들은 백준, codeforces 와 같은 코딩 문제풀이 사이트의 solution 이나 AI, 딥러닝 등을 연습하거나 연구하는 과정을 기록한 것이다. 프로그래밍 언어는 주로 C++ 과 Python 코드들로 이루어져 있지만 추후에는 다른 언어도 사용할 수 있다. 여기에 post를 올리는 목적은 온전히 기록을 위한 것이며 필요한 사람이 있다면 참고할 수 있도록 할 예정이다.
 ## 소개 및 page 운영 방식
