@@ -20,12 +20,13 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 
 
 ## Awards
-* Korea Olympiad in Informatics, Regional Competition, Grand Prize (2015)
-* Korea Olympiad in Informatics, National Competition, Silver Prize (2015)
-* Korea Olympiad in Informatics, National S/W Contest, Gold Prize (2015)
 * Korea Olympiad in Informatics, National Competition, Silver Prize (2016)
 * Korea Olympiad in Informatics, National S/W Contest, Grand Prize (2016)
 * Samsung Junior Software Cup, Project Healthy Computerian, Top Prize (2016)
+* Korea Olympiad in Informatics, Regional Competition, Grand Prize (2015)
+* Korea Olympiad in Informatics, National Competition, Silver Prize (2015)
+* Korea Olympiad in Informatics, National S/W Contest, Gold Prize (2015)
+
 
 
 ## Skills
