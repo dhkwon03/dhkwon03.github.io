@@ -14,7 +14,7 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 * Github : [github.com/dhkwon03](https://github.com/dhkwon03)
 
 ## Academic Background
-* Dongsin Science High school (~ 2021. 2.)
+* Dongsin Science High school (early graduation, ~ 2021. 2.)
 * Korea Advanced Institute of Science and Technology (2021. 3. ~)
 	* Undergraduate Program (Major : Electrical Engineering)
 
