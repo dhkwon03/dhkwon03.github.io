@@ -18,6 +18,9 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 * Korea Advanced Institute of Science and Technology (2021. 3. ~)
 	* Undergraduate Program (Major : Electrical Engineering)
 
+## Career
+* ASICLAND (2022. 7 ~ 2022. 8)
+	* Intern
 
 ## Awards
 * Korea Olympiad in Informatics, National Competition, Silver Prize (2016)
@@ -31,6 +34,7 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 
 ## Skills
 * C++ : expert
+* Verilog : intermediate
 * Python : intermediate
 * Matlab : basic
 * Git : intermediate
