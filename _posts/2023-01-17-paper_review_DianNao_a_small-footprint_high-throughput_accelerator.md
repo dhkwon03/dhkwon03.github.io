@@ -7,6 +7,8 @@ categories:
 - AI_accelerator
 ---
 
+DianNao: A Small-Footprint High-Throughput Accelerator for Uniquitous Machine-Learning
+
 최초의 AI 가속기 논문으로 유명한 논문이다. large-scale CNN과 DNN을 위한 accelerator 를 design 했는데, memory footprint를 중점적으로 줄여서 효율적이고 performance 가 높은 accelerator가 되도록 design 했다.
 # Contribution
 * A synthesized (place and route) accelerator design for large-scale CNNs and DNNs, the state-of-the-art machine-learning algorithms 
