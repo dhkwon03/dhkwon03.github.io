@@ -1,6 +1,6 @@
 ---
-title: 'Paper review - DianNao: A Small-Footprint High-Throughput Accelerator for
-  Uniquitous Machine-Learning'
+title: '논문리뷰 (Paper review); DianNao: A Small-Footprint High-Throughput Accelerator
+  for Uniquitous Machine-Learning'
 tags:
 - paper_review
 categories:
