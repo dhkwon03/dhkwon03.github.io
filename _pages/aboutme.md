@@ -19,6 +19,8 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 	* Undergraduate Program (Major : Electrical Engineering)
 
 ## Career
+* KAIST CastLab (2023.1 ~ 2023.2) 
+	* Individual Research (Intern) 
 * ASICLAND (2022. 7 ~ 2022. 8)
 	* Intern
 
