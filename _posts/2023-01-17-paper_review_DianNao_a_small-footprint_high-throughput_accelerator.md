@@ -19,16 +19,16 @@ DianNao: A Small-Footprint High-Throughput Accelerator for Uniquitous Machine-Le
 * tiling 방법을 통해 main memory에 access 하는 횟수 최소화 
 * chip 내부에 별도의 cache 사용하여 일정 크기만큼 layer에서 data를 잘라내어 caching 하는 것 (모든 conv, synapses, Input/Output Neurons, pooling layers 에 대해 적용)
 * Classifier layers
-	* tiling 하여 최종적으로 on chip 에서 계산하는 부분은 $T_n * T_i$
+	* tiling 하여 최종적으로 on chip 에서 계산하는 부분은 $T_n \times T_i$
 	* Fig 6. : 이전에는 DRAM에서 모든 matrix의 parameter를 불러와야 했지만, working memory set을 줄임으로써 working memory를 L1 cache 에 넣어서 요구되는 memory bandwidth (메모리 전송 속도) 를 줄일 수 있고 만약 weight matrix를 L2 cache 에 넣는다면 더욱 많이 bandwidth를 줄일 수 있다.
 * Convolutional layer
-	* Tile size를 $T_x * T_y * N_i$ ($N_i$ 가 depth)로 하여 tiling
+	* Tile size를 $T_x \times T_y \times N_i$ ($N_i$ 가 depth)로 하여 tiling
 	* kernel 은 작은 크기라서 on-chip 에 모두 들어감
 	* for문으로 나타낸 figure 를 보면 depth 방향으로 먼저 탐색
 	* stride가 작으면 kernel은 stride 만큼 옆으로 옮겨가기 때문에 겹치는 부분의 계산값은 재사용할 수 있다. 또한, depth가 너무 커서 cache에 안 들어가면 depth 또한 나눠서 (tiling 해서) 계산할 수 있다.
 	* Fig 6 : convolution layer에 대해서는 input, output 모두 cache 에 가지고 있을 수 있다. CONV3 는 shared kernel의 경우이고, CONV5 는 private kernel의 경우인데 각 layer 마다 kernel 이 다른 경우 (즉, kernel 개수가 더 많음) 가 private kernel임. 요즘은 shared kernel의 경우만 있다. CONV3 를 보면 cache를 이용할 때 bandwidth가 굉장히 줄어든다.
 * Pooling layer
-	* tiling size 는 $T_x * T_y * N_i$
+	* tiling size 는 $T_x \times T_y \times N_i$
 	* 마찬가지로 for문을 보면 비슷하게 tiling 하여 계산하는 것을 구현
 	* kernel에 대한 weight 가 없기 때문에 그래프 (fig. 6)를 보면 synapse가 없기 때문에 memory bandwidth 가 애초에 작고, tiling 의 효과는 작다. 
  
@@ -45,7 +45,7 @@ DianNao: A Small-Footprint High-Throughput Accelerator for Uniquitous Machine-Le
 		* scratchpad 는 efficient storage, and both efficient and easy exploitation of locality because only a few algorithms have to be manually adapted.
 * Split buffer (NBin, NBout, SB)
 	* width : 각 buffer 에 대해 시간, energy 효율이 가장 좋은 appropriate read/write width로 조정한다
-		* NBin 은 $T_i$ 개, NBout 은 $T_n$ 개, SB는 $T_i * T_n$ 개 의 working memory 들어가고 이들이 NFU 에 연결되어 있음
+		* NBin 은 $T_i$ 개, NBout 은 $T_n$ 개, SB는 $T_i \times T_n$ 개 의 working memory 들어가고 이들이 NFU 에 연결되어 있음
 	* avoid conflict : highly associative cache 의 대안이 있으나 n-way cache는 fast read가 n ways/bank를 parallel 하게 읽는 방식이라 energy cost 가 너무 크다
 * DMA
 	* scratchpad 에서 spatial locality exploitation (locality 이용)을 위해 각 buffer에 하나씩 3개의 DMA (two load DMA, one store DMA for output)
