@@ -1,6 +1,6 @@
 # dhkwon03.github.io
 
-github page of Doheon Kwon
+Doheon Kwon's github page.
 
 <!--
 if you want to modify the page or want to upload new post, 
