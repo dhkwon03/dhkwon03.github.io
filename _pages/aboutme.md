@@ -7,7 +7,7 @@ toc_sticky: true
 ---
 
 ## Introduction
-I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. Especially, I am interested in artificial intelligence and deep learning. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology.
+I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. Especially, I am interested in artificial intelligence and chip design. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology.
 
 ## Contact
 * Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr)
