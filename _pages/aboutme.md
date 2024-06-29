@@ -19,6 +19,9 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 	* Undergraduate Program (Major : Electrical Engineering)
 
 ## Career
+* Ministry of National Defense (2023.9 ~ 2025.3)
+	* Obligatory Military Service, Republic of Korea Army
+	* Affiliated Unit : --
 * KAIST CastLab (2023.1 ~ 2023.2) 
 	* Individual Research (Intern) 
 * Korean Silicon Company (2022. 7 ~ 2022. 8)
