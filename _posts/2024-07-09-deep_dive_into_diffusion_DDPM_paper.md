@@ -1,5 +1,11 @@
 ---
 title: Deep Dive into Diffusion; Denoising Diffusion Probabilistic Models (DDPM)
+tags:
+- paper_review
+- concept
+- 9S_July2024
+categories:
+- AI
 ---
 
 이 글은 “Understanding Deep Learning” 이라는 책의 설명 방식과 순서를 따랐으며 이 책을 많이 참고하고 정리하여 작성되었다. 또한 이 내용은 DDPM 논문과 관련된 내용이며 DDPM 논문과 연계하여 설명하였다.
