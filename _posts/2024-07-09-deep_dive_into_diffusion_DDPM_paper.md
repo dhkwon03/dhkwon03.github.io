@@ -51,7 +51,7 @@ $$
 그리고 우리는 모든 x가 주어졌을 때 latent variable 의 joint distribution 을 아래와 같이 구할 수 있다. joint distribution 이라 함은 모든 latent variable 하나하나를 모두 확률변수로 하는 distribution 이다. ($\mathbf z\_{1...t}$ 라는 notation 은 $\mathbf z\_1, \mathbf z\_2, ... \mathbf z\_t$ 를 의미) 
  
 $$
-q(\mathbf{z}\_{1...T} \mid \mathbf{x})=q(\mathbf{z}\_1\ mid \mathbf{x}) \displaystyle \Pi_{t=2}^{T} q(\mathbf{z}\_t \mid \mathbf{z}\_{t-1})
+q(\mathbf{z}_{1...T} \mid \mathbf{x})=q(\mathbf{z}_1 \mid \mathbf{x}) \displaystyle \Pi_{t=2}^{T} q(\mathbf{z}_t \mid \mathbf{z}_{t-1})
 $$   
 
  
