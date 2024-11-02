@@ -21,7 +21,7 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 ## Career
 * Ministry of National Defense (2023.9 ~ 2025.3)
 	* Obligatory Military Service, Republic of Korea Army (대한민국 육군)
-	* Affiliated Unit : ?
+	* Affiliated Unit : -
 * KAIST CastLab (2023.1 ~ 2023.2) 
 	* Individual Research (Intern) 
 	* Designed DMA (Direct Memory Access) using Verilog, tested on FPGA
@@ -31,6 +31,13 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 	* Designed I2C protocol transmitter / receiver using Verilog
 
 ## Awards
+* ROKA Start-up Contest, Grand Prize (2024)
+	* 육군창업경진대회 대상 (1위)
+	* Award given by Chief of Staff, ROK Army (육군참모총장)
+	* Proposed Item; Beacon Identification Friend or Foe (BIFF), which is IFF (피아식별) system using encrypted communication and Beacon technology
+	* Suggested the specific business model that grows into a high-tech defense company
+	* Was the team leader among the 3 members
+	* [Article](https://www.hankyung.com/article/2024102220891)
 * National Science & Technology Scholarship, Ministry of Science and ICT (2023) 
 	* 국가우수장학금 (이공계)  
 * KAIST Dean's list (2023 Spring) 
