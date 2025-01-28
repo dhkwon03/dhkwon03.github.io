@@ -12,7 +12,7 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 ## Contact
 * Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr), [doheon.kwon@gmail.com](mailto: doheon.kwon@gmail.com)
 * Github : [github.com/dhkwon03](https://github.com/dhkwon03)
-* Linkedin : [Doheon Kwon Linkedin](www.linkedin.com/in/doheon-kwon-095a10210)
+* Linkedin : [Doheon Kwon Linkedin](https://www.linkedin.com/in/doheon-kwon-095a10210)
 
 ## Academic Background
 * Korea Advanced Institute of Science and Technology (2021. 3. ~)
