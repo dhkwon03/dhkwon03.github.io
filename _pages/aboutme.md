@@ -10,17 +10,18 @@ toc_sticky: true
 I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. Especially, I am interested in artificial intelligence and chip design. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology.
 
 ## Contact
-* Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr)
+* Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr), [doheon.kwon@gmail.com](mailto: doheon.kwon@gmail.com)
 * Github : [github.com/dhkwon03](https://github.com/dhkwon03)
+* Linkedin : [Doheon Kwon Linkedin](www.linkedin.com/in/doheon-kwon-095a10210)
 
 ## Academic Background
-* Dongsin Science High school (early graduation, ~ 2021. 2.)
 * Korea Advanced Institute of Science and Technology (2021. 3. ~)
 	* Undergraduate Program (Major : Electrical Engineering)
+* Dongsin Science High school (early graduation, ~ 2021. 2.)
 
 ## Career
 * Ministry of National Defense (2023.9 ~ 2025.3)
-	* Obligatory Military Service, Republic of Korea Army (대한민국 육군)
+	* Mandatory Military Service, Republic of Korea Army (대한민국 육군)
 	* Affiliated Unit : -
 * KAIST CastLab (2023.1 ~ 2023.2) 
 	* Individual Research (Intern) 
@@ -54,9 +55,9 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 ## Skills
 * C++ : expert
 * Verilog : intermediate
-* Python : master
+* Python : expert
 * Matlab : intermediate
 * Git : intermediate
 * Vi : expert
-* Pytorch : intermediate
-* Tensorflow : basic
+* Pytorch : master
+* Tensorflow : intermediate
