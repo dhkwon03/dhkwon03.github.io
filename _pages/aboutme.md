@@ -10,7 +10,7 @@ toc_sticky: true
 I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. Especially, I am interested in artificial intelligence and chip design. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology.
 
 ## Contact
-* CV : [[CV link]](https://drive.google.com/file/d/1i1cHYT_-2ULVdzfodhyx0v05b5eBbELh/view?usp=sharing) (Sensitive Informations have been masked.)
+* CV : [[CV link]](https://drive.google.com/file/d/1i1cHYT_-2ULVdzfodhyx0v05b5eBbELh/view?usp=sharing) (Sensitive informations have been masked.)
 * Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr), [doheon.kwon@gmail.com](mailto: doheon.kwon@gmail.com)
 * Github : [github.com/dhkwon03](https://github.com/dhkwon03)
 * Linkedin : [[Linkedin link]](https://www.linkedin.com/in/doheon-kwon-095a10210)
