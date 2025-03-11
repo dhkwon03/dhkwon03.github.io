@@ -21,10 +21,12 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 * Dongsin Science High school (early graduation, ~ 2021. 2.)
 
 ## Career
+* KAIST Computer System & Network Lab (2025.3 ~ )
+	* Individual Research (Undergraduate Intern)
 * Ministry of National Defense (2023.9 ~ 2025.3)
 	* Mandatory Military Service, Republic of Korea Army (대한민국 육군)
 * KAIST CastLab (2023.1 ~ 2023.2) 
-	* Individual Research (Intern) 
+	* Individual Research (Undergraduate Intern) 
 	* Designed DMA (Direct Memory Access) using Verilog, tested on FPGA
 	* Designed Systolic Array using Verilog
 * Korean Silicon Company (2022. 7 ~ 2022. 8)
