@@ -8,9 +8,9 @@ categories:
 - AI
 ---
 
-군에 있을 때 24년 7월 쯤에 읽었던 논문입니다. 열심히 pdf 로 필기해놓았는데 그냥 안 올리기는 아까워서 기록용으로 올려놓습니다.
+군에 있을 때 24년 7월 쯤에 읽었던 논문입니다. 열심히 pdf 로 필기해놓았는데 안 올리기에는 아까워서 기록용으로 올려놓습니다.
 2022년 6월에 나온 FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness 논문입니다. (군에서 읽었을 때는 센세이셔널한 느낌을 받았는데 꽤나 오래된 논문이네요...)
-대략 핵심만 정리하고 나머지는 제가 필기해놓았던 걸 첨부해놓겠습니다.
+대략 핵심만 정리하고 나머지는 제가 필기해놓았던 것을 첨부해놓겠습니다.
 
 ## 1. Flashattention intro
 Transformer 는 sequence 길이가 길어질수록 memory bounded 한 알고리즘이 된다. 특히, transformer 에서 핵심적인 operation 인 self-attention 의 경우 sequence length 의 quadratic scale (제곱 scale) memory complexity 를 가지기 때문에 memory IO 를 빠르고 효율적으로 하는 것이 굉장히 중요하다는 문제가 있다. (이 문제는 지금까지도 이어지고 있다.)
