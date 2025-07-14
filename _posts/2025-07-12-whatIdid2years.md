@@ -1,6 +1,7 @@
 ---
 title: What I did for 2 years (23.7 ~ 25.7)
 ---
+<meta name="robots" content="noindex">
 
 # 2년 동안 뭐하고 살았지
 
