@@ -23,6 +23,7 @@ I'm an undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring
 
 ## Career
 * KAIST Computer System & Network Lab (2025.3 ~ )
+	* Advisor: Prof. John Kim
 	* Individual Research (Undergraduate Intern)
 * An Agency of Ministry of National Defense (2023.9 ~ 2025.3)
 	* Mandatory Military Service, Republic of Korea Army (대한민국 육군)
