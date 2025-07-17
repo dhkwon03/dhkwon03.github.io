@@ -1,0 +1,9 @@
+.author__name a:hover {
+  text-decoration: underline;
+}
+
+.author__name {
+  font-size: 3rem;
+}
+
+

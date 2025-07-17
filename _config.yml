@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Dohoney"
 title_separator          : "-"
-subtitle                 : "Electrical Engineering & Programming" # site tagline that appears below site title in masthead
+subtitle                 : "Electrical Engineering & Computer Architecture" # site tagline that appears below site title in masthead
 name                     : "Doheon Kwon"
 description              : "A passionate engineer"
 url                      : "https://dhkwon03.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,7 +104,8 @@ analytics:
 author:
   name             : "Doheon Kwon"
   avatar           : "/assets/images/sea.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Doheon Kwon's activities related to EE and programming."
+  bio              : "Undergraduate student @ KAIST\nMajor: Electrical Engineering\nCurrently at Computer System & Network Lab, KAIST under the guidance of Prof. John Kim.\nResearch Interest: Computer Architecture, especially on Interconnection Network, Memory Architecture, Chiplet, and AI.\nClick 'About me' for more information.\n" 
+  sidebar_bio      : "Feel free to contact me via email."
   location         : "KAIST"
   email            : "dhkwon03@kaist.ac.kr"
   links:

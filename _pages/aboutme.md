@@ -7,7 +7,7 @@ toc_sticky: true
 ---
 
 ## Introduction
-Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. Especially, I am interested in Computer Architecture, Interconnection, AI, and chip design. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology. Now I'm conducting cutting-edge research under the guidance of Prof. John Kim, focusing on innovative architecture and performance optimization.
+Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. I am interested in Computer Architecture, especially on Interconnection Network, Memory Architecture, Chiplet, and AI. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology. Now I'm conducting cutting-edge research under the guidance of Prof. John Kim, focusing on innovative architecture and performance optimization.
 
 ## Contact
 * CV : [[CV link]](https://drive.google.com/file/d/1i1cHYT_-2ULVdzfodhyx0v05b5eBbELh/view?usp=sharing) (Sensitive informations have been masked, last update: Feb. 7, 2025)

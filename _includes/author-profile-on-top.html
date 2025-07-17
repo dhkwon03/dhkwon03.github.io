@@ -1,0 +1,14 @@
+{% assign author = site.author %}
+<div itemscope itemtype="https://schema.org/Person" class="h-card" style="margin-bottom: 2em;">
+  
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="/aboutme/" itemprop="url">{{ author.name }}</a>
+    </h3>
+    {% if author.bio %}
+      <div class="author__bio p-note" itemprop="description">
+        {{ author.bio | markdownify }}
+      </div>
+    {% endif %}
+  </div>
+</div>
