@@ -104,7 +104,13 @@ analytics:
 author:
   name             : "Doheon Kwon"
   avatar           : "/assets/images/sea.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergraduate student @ KAIST\nMajor: Electrical Engineering\nCurrently at Computer System & Network Lab, KAIST under the guidance of Prof. John Kim.\nResearch Interest: Computer Architecture, especially on Interconnection Network, Memory Architecture, Chiplet, and AI.\nClick 'About me' for more information.\n" 
+  bio: |
+    Undergraduate student @ KAIST   
+    Major: Electrical Engineering   
+    Computer System & Network Lab, KAIST under the guidance of Prof. John Kim   
+    Research Interest: Interconnection Network, Memory Architecture, Chiplet, and AI   
+
+    Click the above 'About me' tab for more information.    
   sidebar_bio      : "Feel free to contact me via email."
   location         : "KAIST"
   email            : "dhkwon03@kaist.ac.kr"
