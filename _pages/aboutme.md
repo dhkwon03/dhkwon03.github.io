@@ -17,9 +17,9 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 * Linkedin : [[Linkedin link]](https://www.linkedin.com/in/doheon-kwon-095a10210)
 
 ## Academic Background
-* Korea Advanced Institute of Science and Technology (2021. 3 ~)
+* Korea Advanced Institute of Science and Technology (2021. 3 ~ 2026. 2)
 	* Undergraduate Program (Major : Electrical Engineering)
-	* Including 18 months of military service
+	* Early graduation (Including 18 months of military service)
 * Dongsin Science High school (early graduation, ~ 2021. 2)
 
 ## Career
@@ -37,6 +37,7 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 	* Designed I2C protocol transmitter / receiver using Verilog
 
 ## Awards
+* KAIST Dean's list (2025 Spring)
 * ROKA Start-up Contest, Grand Prize (2024)
 	* 육군창업경진대회 대상 (1위)
 	* Award given by Chief of Staff, ROK Army (육군참모총장)
@@ -44,7 +45,7 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 	* Suggested the specific business model that grows into a high-tech defense company
 	* Was the team leader among the 3 members
 	* [Article](https://www.hankyung.com/article/2024102220891)
-* National Science & Technology Scholarship, Ministry of Science and ICT (2023) 
+* National Science & Technology Scholarship, Ministry of Science and ICT (2023 ~ 2025) 
 	* 국가우수장학금 (이공계)  
 * KAIST Dean's list (2023 Spring) 
 * KAIST Dean's list (2022 Fall)
