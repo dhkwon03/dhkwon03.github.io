@@ -17,18 +17,23 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 * Linkedin : [[Linkedin link]](https://www.linkedin.com/in/doheon-kwon-095a10210)
 
 ## Academic Background
+* Korea Advanced Institute of Science and Technology (2026. 2 ~ )
+	* M.S. Candidate (Major : Electircal Engineering)
+	* Advisor: Prof. John Kim
 * Korea Advanced Institute of Science and Technology (2021. 3 ~ 2026. 2)
 	* Undergraduate Program (Major : Electrical Engineering)
 	* Early graduation (Including 18 months of military service)
-* Dongsin Science High school (early graduation, ~ 2021. 2)
+* Dongsin Science High school (2019. 3 ~ 2021. 2)
+	* Early graduation
 
 ## Career
-* KAIST Computer System & Network Lab (2025.3 ~ )
+* KAIST Computer System & Network Lab (2025. 3 ~ )
+	* M.S. Candidate (2026. 3 ~ )
+	* Individual Research, Undergraduate Intern (2025. 3 ~ 2026. 2)
 	* Advisor: Prof. John Kim
-	* Individual Research (Undergraduate Intern)
-* An Agency of Ministry of National Defense (2023.9 ~ 2025.3)
+* An Agency of Ministry of National Defense (2023. 9 ~ 2025. 3)
 	* Mandatory Military Service, Republic of Korea Army (대한민국 육군)
-* KAIST CastLab (2023.1 ~ 2023.2) 
+* KAIST CastLab (2023. 1 ~ 2023. 2) 
 	* Individual Research (Undergraduate Intern) 
 	* Designed DMA (Direct Memory Access) using Verilog, tested on FPGA
 	* Designed Systolic Array using Verilog
