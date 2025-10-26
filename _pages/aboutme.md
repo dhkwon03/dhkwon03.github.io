@@ -17,9 +17,9 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 * Linkedin : [[Linkedin link]](https://www.linkedin.com/in/doheon-kwon-095a10210)
 
 ## Academic Background
-* Korea Advanced Institute of Science and Technology (2026. 2 ~ )
+* Korea Advanced Institute of Science and Technology (2026. 3 ~ )
 	* M.S. Candidate (Major : Electircal Engineering)
-	* Advisor: Prof. John Kim
+	* Advisor: Prof. John Kim (KAIST Computer System & Network Lab)
 * Korea Advanced Institute of Science and Technology (2021. 3 ~ 2026. 2)
 	* Undergraduate Program (Major : Electrical Engineering)
 	* Early graduation (Including 18 months of military service)
@@ -27,9 +27,8 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 	* Early graduation
 
 ## Career
-* KAIST Computer System & Network Lab (2025. 3 ~ )
-	* M.S. Candidate (2026. 3 ~ )
-	* Individual Research, Undergraduate Intern (2025. 3 ~ 2026. 2)
+* KAIST Computer System & Network Lab (2025. 3 ~ 2026. 2)
+	* Individual Research, Undergraduate Intern
 	* Advisor: Prof. John Kim
 * An Agency of Ministry of National Defense (2023. 9 ~ 2025. 3)
 	* Mandatory Military Service, Republic of Korea Army (대한민국 육군)
