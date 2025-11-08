@@ -1,6 +1,7 @@
 ---
 title: What I did for 2 years (23.7 ~ 25.7)
 ---
+
 <meta name="robots" content="noindex">
 
 # 2년 동안 뭐하고 살았지
@@ -302,7 +303,7 @@ chris는 아쉽게도 당시 미국에 잠깐 가서 나와 woo만 갔다. 양�
 
 아직 부대에 현역으로 있는 mo와 song이 (song은 최근에 전역했다) 카이스트에 놀러왔다. 학교에 있던 hwiii, bj, T도 합류하여 '오가다'에서 근황 토크를 했다. 
 
-축제도 보러갔다. 하루는 bj와 T, 하루는 jm이랑 같이 봤다. 츄랑 아이브 왔었는데 
+축제도 보러갔다. 하루는 bj와 T, 하루는 jm이랑 같이 봤다. 츄랑 엔믹스 왔었는데 
 
 <img src="../../assets/images/250712/46_20250514_210909.jpg" width="500px" height="500px" title=""/>
 
