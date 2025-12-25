@@ -7,9 +7,9 @@ toc_sticky: true
 ---
 
 ## Introduction
-Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majoring in Electrical Engineering. I am interested in Computer Architecture, especially on Interconnection Network, Memory Architecture, Chiplet, and AI. I gained experience in computer programming since I was young. I have participated in numerous software and programming contests and won lots of awards including three grand awards given by the minister of science and technology. Now I'm conducting cutting-edge research under the guidance of Prof. John Kim, focusing on innovative architecture and performance optimization.
+Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also received my Bachelor degree (2021 - 2025). My research focuses on Computer Architecture, with a specific interest in Interconnection Networks, Memory Systems, Chiplet-based Architectures, and Hardware for AI. I'm conducting research under the guidance of Prof. John Kim, aiming to develop innovative architectural solutions for next-generation computing systems.
 
-* CV : [[CV link]](https://drive.google.com/file/d/1i1cHYT_-2ULVdzfodhyx0v05b5eBbELh/view?usp=sharing) (Sensitive informations have been masked, last update: Feb. 7, 2025)
+* CV : [[CV link]](https://drive.google.com/file/d/1Z9Qq03nldwmc9HMta_8ucQL7MDxayxgy/view?usp=sharing) (Sensitive informations have been masked, last update: Dec. 26, 2025)
 
 ## Contact
 * Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr), [doheon.kwon@gmail.com](mailto: doheon.kwon@gmail.com)
@@ -18,10 +18,11 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 
 ## Academic Background
 * Korea Advanced Institute of Science and Technology (2026. 3 ~ )
-	* M.S. Candidate (Major : Electircal Engineering)
+	* Master's program (Major : Electircal Engineering)
 	* Advisor: Prof. John Kim (KAIST Computer System & Network Lab)
 * Korea Advanced Institute of Science and Technology (2021. 3 ~ 2026. 2)
 	* Undergraduate Program (Major : Electrical Engineering)
+	* **GPA: 4.14 / 4.30**
 	* Early graduation (Including 18 months of military service)
 * Dongsin Science High school (2019. 3 ~ 2021. 2)
 	* Early graduation
@@ -30,7 +31,7 @@ Hi, I'm undergraduate student at KAIST. I entered KAIST in 2021 and I am majorin
 * KAIST Computer System & Network Lab (2025. 3 ~ 2026. 2)
 	* Individual Research, Undergraduate Intern
 	* Advisor: Prof. John Kim
-* An Agency of Ministry of National Defense (2023. 9 ~ 2025. 3)
+* An Agency under the Ministry of National Defense (2023. 9 ~ 2025. 3)
 	* Mandatory Military Service, Republic of Korea Army (대한민국 육군)
 * KAIST CastLab (2023. 1 ~ 2023. 2) 
 	* Individual Research (Undergraduate Intern) 
