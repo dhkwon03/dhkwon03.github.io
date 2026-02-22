@@ -7,9 +7,9 @@ toc_sticky: true
 ---
 
 ## Introduction
-Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also received my Bachelor degree (2021 - 2025). My research focuses on Computer Architecture, with a specific interest in Interconnection Networks, Memory Systems, Chiplet-based Architectures, and Hardware for AI. I'm conducting research under the guidance of Prof. John Kim, aiming to develop innovative architectural solutions for next-generation computing systems.
+Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also received my Bachelor degree (2021.3 - 2026.2). My research focuses on Computer Architecture, with a specific interest in Interconnection Networks, Memory Systems, Chiplet-based Architectures, and Hardware for AI. I'm conducting research under the guidance of Prof. John Kim, aiming to develop innovative architectural solutions for next-generation computing systems.
 
-* CV : [[CV link]](https://drive.google.com/file/d/1Z9Qq03nldwmc9HMta_8ucQL7MDxayxgy/view?usp=sharing) (Sensitive informations have been masked, last update: Dec. 26, 2025)
+* CV : [[CV link]](https://drive.google.com/file/d/1Z9Qq03nldwmc9HMta_8ucQL7MDxayxgy/view?usp=sharing) (last update: Dec. 26, 2025)
 
 ## Contact
 * Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr), [doheon.kwon@gmail.com](mailto: doheon.kwon@gmail.com)
@@ -22,7 +22,7 @@ Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also rece
 	* Advisor: Prof. John Kim (KAIST Computer System & Network Lab)
 * Korea Advanced Institute of Science and Technology (2021. 3 ~ 2026. 2)
 	* Undergraduate Program (Major : Electrical Engineering)
-	* **GPA: 4.14 / 4.30**
+	* **GPA: 4.14 / 4.30** (Summa Cum Laude)
 	* Early graduation (Including 18 months of military service)
 * Dongsin Science High school (2019. 3 ~ 2021. 2)
 	* Early graduation
