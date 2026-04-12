@@ -9,7 +9,7 @@ toc_sticky: true
 ## Introduction
 Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also received my Bachelor degree (2021.3 - 2026.2). My research focuses on Computer Architecture, with a specific interest in Interconnection Networks, Memory Systems, Chiplet-based Architectures, and Hardware for AI. I'm conducting research under the guidance of Prof. John Kim, aiming to develop innovative architectural solutions for next-generation computing systems.
 
-* CV : [[CV link]](https://drive.google.com/file/d/1Z9Qq03nldwmc9HMta_8ucQL7MDxayxgy/view?usp=sharing) (last update: Dec. 26, 2025)
+* CV : [[CV link]](https://drive.google.com/file/d/1vaSfFf4YugnSdgHst2ImJ2Cj6iovrGGV/view?usp=sharing) (last update: Apr. 12, 2026)
 
 ## Contact
 * Email : [dhkwon03@kaist.ac.kr](mailto: dhkwon03@kaist.ac.kr), [doheon.kwon@gmail.com](mailto: doheon.kwon@gmail.com)
@@ -42,6 +42,7 @@ Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also rece
 	* Designed I2C protocol transmitter / receiver using Verilog
 
 ## Awards
+* Eun Jong-kwan Scholarship (은종관 장학금), awarded for outstanding academic performance among incoming Master's students of KAIST EE, 2026
 * KAIST Dean's list (2025 Spring)
 * ROKA Start-up Contest, Grand Prize (2024)
 	* 육군창업경진대회 대상 (1위)
