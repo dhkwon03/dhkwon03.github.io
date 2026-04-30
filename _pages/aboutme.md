@@ -71,3 +71,7 @@ Hi, I'm a Master's student in Electrical Engineering at KAIST, where I also rece
 * Vi : expert
 * Pytorch : master
 * Tensorflow : intermediate
+
+## Languages
+* English - TOEFL iBT 5.5 / 6.0 (110 / 120), Feb. 2026
+* Korean - native
